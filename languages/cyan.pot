@@ -1,0 +1,119 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP cyan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-20 16:19+0200\n"
+"POT-Revision-Date: Thu Aug 11 2019 14:27:32 GMT+0300 (FLE Daylight Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <jafari@cyanteam.com>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+msgid "Cyan"
+msgstr ""
+
+msgid "books"
+msgstr ""
+
+msgid "book"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New book"
+msgstr ""
+
+msgid "edit book"
+msgstr ""
+
+msgid "New book"
+msgstr ""
+
+msgid "View book"
+msgstr ""
+
+msgid "Search books"
+msgstr ""
+
+msgid "No book found"
+msgstr ""
+
+msgid "No book found in Trash"
+msgstr ""
+
+msgid "Publishers"
+msgstr ""
+
+msgid "Publisher"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "All Publisher"
+msgstr ""
+
+msgid "Parent Publisher"
+msgstr ""
+
+msgid "Edit Publishers"
+msgstr ""
+
+msgid "Update Publisher"
+msgstr ""
+
+msgid "Add New Publisher"
+msgstr ""
+
+msgid "New Publisher Name"
+msgstr ""
+
+
+msgid "Authors"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "All Author"
+msgstr ""
+
+msgid "Parent Author"
+msgstr ""
+
+msgid "Edit Authors"
+msgstr ""
+
+msgid "Update Author"
+msgstr ""
+
+msgid "Add New Author"
+msgstr ""
+
+msgid "New Author Name"
+msgstr ""
+
+msgid "isbn"
+msgstr ""
+
+msgid "List books"
+msgstr ""
+          
+
