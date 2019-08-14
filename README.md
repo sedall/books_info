@@ -1,2 +1,2 @@
 # books_info
-a wordpress plugin for create books info
+a wordpress plugin for books info
